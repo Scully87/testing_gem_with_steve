@@ -3,4 +3,4 @@ require 'testing_gem_with_steve'
 
 tim = TestingGemWithSteve.new
 
-tim.taking_to_denise
+tim.talking_to_denise
