@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+require 'testing_gem_with_steve'
+
+tim = TestingGemWithSteve.new
+
+tim.taking_to_denise
